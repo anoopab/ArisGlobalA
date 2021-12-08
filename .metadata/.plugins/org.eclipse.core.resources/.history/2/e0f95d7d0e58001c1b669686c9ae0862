@@ -1,0 +1,6 @@
+package com.aris.servelts;
+import java.servlet.http.HttpServlet;
+
+public class Addservlts extends HttpServlets {
+
+}
